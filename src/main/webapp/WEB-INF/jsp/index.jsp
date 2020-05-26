@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <h1 class="display-3 margin30 margin30">Lorem rimsum</h1>
-                <img src="../../img/1357794844_preview_PepoGun.png" class="margin30" style="width: 400px; height: 400px; margin: 15px;">
+                <img src="/resources/img/1357794844_preview_PepoGun.png" class="margin30" style="width: 400px; height: 400px; margin: 15px;">
                 <p>ㅂㅈㄷㄱㅈㄷㄱㅁㄴㅇ</p>
                 <button class="btn btn-primary margin30">지금 바로 시작하기</button>
             </div>
@@ -39,8 +39,8 @@
             </div>
             <div class="col-md-4">
                 <h2>SNS</h2>
-                <p><img src="/img/misc285.jpg"> 영섭<br>
-                    <img src="web/img/ico_in.png"> Ar0rnt2_2</p>
+                <p><img src="/resources/img/misc285.jpg"> 영섭<br>
+                    <img src="/resources/web/img/ico_in.png"> Ar0rnt2_2</p>
                 <p><button type="button" class="btn btn-light">자세히보기 &blacktriangleright;</button></p>
             </div>
         </div>
