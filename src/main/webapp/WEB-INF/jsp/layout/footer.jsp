@@ -1,0 +1,6 @@
+<%@ page pageEncoding="UTF-8" %>
+
+
+<footer>
+    <h6 class="bg-light text-right">copyright &copy; anys 2020. All right Reserved. Created by Bootstrap4.</h6>
+</footer>
