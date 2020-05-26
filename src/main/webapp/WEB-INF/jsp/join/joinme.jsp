@@ -103,7 +103,7 @@
                                    class="col-2 col-form-label">전자우편 주소</label>
                             <input type="text" class="form-control col-3  border-info"
                                    name="email1" id="email1">
-                            &nbsp;&commat;&nbsp;
+                            &nbsp;@&nbsp;
                             <input type="text" class="form-control col-3  border-info"
                                    name="email2" id="email2">
                         </div>
@@ -129,7 +129,7 @@
                     <div class="form-group row">
                         <label class="col-2 col-form-label"
                                for="captcha">자동가입방지</label>
-                        <img src="../img/google_recaptcha.gif"
+                        <img src="/resources/img/google_recaptcha.gif"
                             width="50%" height="30%"
                             style="margin-left: -5px; margin-bottom: 5px;">
                         <input type="text" class="form-control col-4 border-info"

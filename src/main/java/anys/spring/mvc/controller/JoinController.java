@@ -60,7 +60,7 @@ public class JoinController {
     @RequestMapping(value = "join/joinme", method = RequestMethod.POST)
     public String joinmeok() {
 
-        return "redirect:join/joinok";
+        return "redirect:/join/joinok";
     }
 
     // 가입완료
